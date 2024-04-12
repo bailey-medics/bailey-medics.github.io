@@ -1,5 +1,5 @@
 ---
-title: "Mark' Bio"
+title: "Mark's Digital Healthcare Bio"
 ---
 
 I have had quite a few people ask me how did I get to the point where I am in regards to clinical informatics, and so I thought I would write a quick biography on the topic.

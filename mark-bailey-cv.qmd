@@ -2,6 +2,8 @@
 title: "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc"
 ---
 
+![](/media/mark-bailey.jpg){height=200px fig-align="center" fig-alt="Profile picture of Mark Bailey"}
+
 ### Work Experience
 
 | Duration           | Position                                                                                                                         |
@@ -49,18 +51,19 @@ title: "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc"
 | 2018               | Edinburgh course in Sleep medicine                                                                                                |
 | 2017               | West Midlands Acute Internal Medicine Conference, Queen Elizabeth Hospital, Birmingham                                            |
 
-### Books Published
+## Books Published
 
 * Bailey MA. Bailey’s Pharmaceutical Flash Cards. Kindle Format.	
 * Bailey MA. Clinical Examinations and Skills – Medical Student Centered. Kindle Format.	
 
-### Papers Published
+## Papers Published
 
 * Bailey MA, Saraswatula A, Dale G, Softly L. Paediatric sedation for imaging is safe and effective in a district general hospital. Br J Radiol. 2016; 89: 20150483.	
 * Bailey MA, Ingram MJ, Naughton DP, Rutt KJ and Dodd HT. Aminosalicylic Acid Conjugates of EDTA as Potential Anti-inflammatory Pro-drugs: Synthesis, Copper Chelation and Superoxide Dismutase-Like Activities. Transition Met Chem. 2008; 33: 195-202.	
 Bailey MA, Ingram MJ, and Naughton DP. A Novel Anti-oxidant and Anti-cancer Strategy: A Peptoid Anti-inflammatory Drug Conjugate with SOD Mimic Activity. Biochem Biophy Res Comm. 2004; 31: 1155-1158.	
 
-### Presentations at Conferences
+## Presentations at Conferences
+
 
 * "Digital Health ReWired, March 2023, Presented the implementation plan for Spiritum Duo at Oxford University Hospital NHS Foundation Trust.
 * NHS-R conference, November 2022, presented the Lung cancer Digital Pathway work.
@@ -69,7 +72,7 @@ Bailey MA, Ingram MJ, and Naughton DP. A Novel Anti-oxidant and Anti-cancer Stra
 * Two ePosters at the ERS Sleep and Breathing conference, 16-17th April 2021. Presented sleep service improvements which lead to a 79% reduction in breach rates through the use of a new pathway and the use of automation.	
 * East of England Post-OSCE Conference, 2015. As the lead organiser, I presented the work my team undertook to organise and run a highly successful mock OSCE for final year medical students. We helped 9 out of 31 students gain distinctions in their final examinations. Ordinarily, this cohort of students only receives around 3-4 distinctions a year.	
 
-### Awards
+## Awards
 
 * Best Silver Quality Improvement presentation, Nov 2020, Gloucestershire Royal Hospital. For work done to improve the sleep service.	
 * Best Presentation Award, 2015, East England Deanery. Awarded first prize for a presentation I gave in regards to our mock OSCE work.	

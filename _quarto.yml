@@ -7,10 +7,14 @@ website:
   navbar:
     logo: media/bm-logo.png
     left:
-      - href: mark-bailey.qmd
+      - href: mark-bailey-cv.qmd
         text: Mark CV
+      - href: mark-bio.qmd
+        text: Mark's Bio
       - href: builds.qmd
         text: Previous builds
+      - href: contact.qmd
+        text: Contact
 
     favicon: media/lbm-logo.png
 

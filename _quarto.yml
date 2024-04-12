@@ -5,7 +5,7 @@ website:
   title: ""
   site-url: "https://bailey-medics.com"
   navbar:
-    logo: media/bm-logo.png
+    logo: media/bm-logo-transparent.png
     left:
       - href: mark-bailey-cv.qmd
         text: Mark CV
@@ -16,7 +16,7 @@ website:
       - href: contact.qmd
         text: Contact
 
-    favicon: media/lbm-logo.png
+  favicon: media/bm-logo.png
 
 format:
   html:

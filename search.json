@@ -60,7 +60,35 @@
     "href": "builds.html",
     "title": "Previous digital health tech builds",
     "section": "",
-    "text": "Spiritum\nThe Spiritum app was unfortunately built in Microsoft Access 2010, so it is not really open source. I have done a QI project on this however and there is a poster PDF people can look at:\n\nhttps://www.gloshospitals.nhs.uk/media/documents/Mark_Bailey_-_Poster.pdf\n\n\n\nQuick Spiritum\nThe Quick Spiritum RPA program is however open source but I have been asked by the trust I worked out to make the repository private. If anyone would like to access the code, please contant me.\nI have done an FCI hosted webinar on this program, which can be seen at:\n\nhttps://www.youtube.com/watch?v=aHEqIeTXUGE\n\nI have spoken both about the RPA program “Quick Spiritum” and the digital pathway work “Spiritum Duo” on an NHS SCW podcast:\n\nhttps://open.spotify.com/episode/5MR5Zj7kKehgFafeoVhOty\n\nThe GitHub code for the cancer pathway is housed at:\n\nhttps://github.com/spiritumduo/spiritumDuo\n\nThe logo that I design for Spiritum Duo is attached. The idea behind logo this is a dandelion being blown. As Spiritum Duo is latin for “breath two”, I thought it was a nice idea for a logo.\nThe Digital Clinical Safety Plateform is a system to streamline and simplify writing clinical safety documentation. The code can be found at:\n\nhttps://github.com/digital-clinical-safety-alliance/digital-clinical-safety-platform"
+    "text": "The Spiritum app was unfortunately built in Microsoft Access 2010, so it is not really open source. I have done a QI project on this however and there is a poster PDF people can look at:\n\nhttps://www.gloshospitals.nhs.uk/media/documents/Mark_Bailey_-_Poster.pdf"
+  },
+  {
+    "objectID": "builds.html#spiritum",
+    "href": "builds.html#spiritum",
+    "title": "Previous digital health tech builds",
+    "section": "",
+    "text": "The Spiritum app was unfortunately built in Microsoft Access 2010, so it is not really open source. I have done a QI project on this however and there is a poster PDF people can look at:\n\nhttps://www.gloshospitals.nhs.uk/media/documents/Mark_Bailey_-_Poster.pdf"
+  },
+  {
+    "objectID": "builds.html#quick-spiritum",
+    "href": "builds.html#quick-spiritum",
+    "title": "Previous digital health tech builds",
+    "section": "Quick Spiritum",
+    "text": "Quick Spiritum\nThe Quick Spiritum RPA program is however open source but I have been asked by the trust I worked out to make the repository private. If anyone would like to access the code, please contant me.\nI have done an FCI hosted webinar on this program, which can be seen at:\n\nhttps://www.youtube.com/watch?v=aHEqIeTXUGE"
+  },
+  {
+    "objectID": "builds.html#spiritum-duo",
+    "href": "builds.html#spiritum-duo",
+    "title": "Previous digital health tech builds",
+    "section": "Spiritum Duo",
+    "text": "Spiritum Duo\nI have spoken both about the RPA program “Quick Spiritum” and the digital pathway work “Spiritum Duo” on an NHS SCW podcast:\n\nhttps://open.spotify.com/episode/5MR5Zj7kKehgFafeoVhOty\n\nThe GitHub code for the cancer pathway is housed at:\n\nhttps://github.com/spiritumduo/spiritumDuo\n\nThe logo that I design for Spiritum Duo is attached. The idea behind logo this is a dandelion being blown. As Spiritum Duo is latin for “breath two”, I thought it was a nice idea for a logo."
+  },
+  {
+    "objectID": "builds.html#digital-clinical-safety-plateform",
+    "href": "builds.html#digital-clinical-safety-plateform",
+    "title": "Previous digital health tech builds",
+    "section": "Digital Clinical Safety Plateform",
+    "text": "Digital Clinical Safety Plateform\nThe Digital Clinical Safety Plateform is a system to streamline and simplify writing clinical safety documentation. The code can be found at:\n\nhttps://github.com/digital-clinical-safety-alliance/digital-clinical-safety-platform"
   },
   {
     "objectID": "offerings.html",

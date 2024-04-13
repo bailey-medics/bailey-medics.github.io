@@ -16,4 +16,6 @@ So my supervisor asked if I could add tuberculosis and bronchiectasis to the Spi
 
 Some of the above functionality was carried out with robotic process automation (RPA). I started thinking, why not use RPA to speed up daily, routine clinical admin tasks. So I build a stand-alone RPA solution called Quick Spiritum. This connects to 9 clinicial systems, and showed a 30% reduction in the time to obtain results. It also can create and send referrals and requests for 4 diciplines. I have not studied the time savings with the latter functionality, but I would think it would be hours to days (as no need to hunt for paper request forms, send to the secretaries to then either fax, scan and email or post).
 
-So now we are at the next stage of my digital journey. My supervisor has asked me to create a new lung cancer pathway. And that is the reason you are here in the first place.
+The next stage of my digital journey was to digitise the lung cancer pathway at Gloucestershire Royal Hospital. That is an amazing story in itself. See [https://www.spiritumduo.com](https://www.spiritumduo.com/) for the full story.
+
+I have also been working on a new system to streamline and automate the creation and maintenance of documentation for clinical safety reports. A live prototype can be found at [https://www.dcsalliance.org/](https://www.dcsalliance.org/). Just ask me for a demo or login credentials.

@@ -8,7 +8,7 @@ website:
     logo: media/bm-logo-transparent.png
     left:
       - href: mark-bailey-cv.qmd
-        text: Mark CV
+        text: Mark's CV
       - href: mark-bio.qmd
         text: Mark's Bio
       - href: builds.qmd

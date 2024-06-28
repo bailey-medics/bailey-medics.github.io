@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "mark-bio.html",
-    "href": "mark-bio.html",
-    "title": "Mark’s Digital Healthcare Bio",
+    "objectID": "offerings.html",
+    "href": "offerings.html",
+    "title": "Offerings",
     "section": "",
-    "text": "I have had quite a few people ask me how did I get to the point where I am in regards to clinical informatics, and so I thought I would write a quick biography on the topic.\nI have always had an interest in all things digital. I played on my Dad’s Apple II computer as a young child, and then played on a range of gaming consoles growing up. I started playing with internet-of-things in 2014 on the Arduino plateform, and started to automated my house for fun. I also learnt about python and linux when I started building my own webpage as part of the home automation.\nSo, with this interest in automating things, basically to take over the boring and tedious tasks, I applied some of this digital knowledge at work. I was trained up to help run the sleep service at Gloucestershire Royal Hospital in April 2018 and was asked to help with the services back log. We had over 350 sleep studies to report and a large percentage of patients waiting over a year for treatment. So, I diligently went through the studies, but it was a very monotonous and boring task. After my first 50 sleep studies (it took some time due to other commitments), I thought there must be a better way of doing this. So in December 2018 I built a very basic Word document with macros that had some drop down lists that you would change for things like the severity of the patient’s condition and their weight, etc. Most of the sleep study reports were very similar apart for some slight changes between patients, so this new Word document work really well.\nAfter a while, I thought the Word document could be improved further. So I build an Excel file with macros that allowed you to add several patients, and then one after another you could print off reports. This is when one of my supervisors asked if I could build a database to house the whole sleep service data and pathway, from referral to treatment. I had never worked on a database before, but I thought I would give it a try. So I looked for a free database solution and found that the trust had Microsoft Access 2010. So I bought myself Access 2010 and VBA for Dummies, read both books all the way through and over the course of 2019 build a new database for the sleep service.\nThe new database was a success. The whole sleep service (apart from follow ups) is run within this new database. By the way, the name of this database is Spiritum: this is Latin for ‘breath’.\nSo my supervisor asked if I could add tuberculosis and bronchiectasis to the Spiritum database, and so I did. At the same time I added functionality so that Spiritum could connect to other clinical systems and grab sleep studies, blood results, imaging reports, etc.\nSome of the above functionality was carried out with robotic process automation (RPA). I started thinking, why not use RPA to speed up daily, routine clinical admin tasks. So I build a stand-alone RPA solution called Quick Spiritum. This connects to 9 clinicial systems, and showed a 30% reduction in the time to obtain results. It also can create and send referrals and requests for 4 diciplines. I have not studied the time savings with the latter functionality, but I would think it would be hours to days (as no need to hunt for paper request forms, send to the secretaries to then either fax, scan and email or post).\nThe next stage of my digital journey was to digitise the lung cancer pathway at Gloucestershire Royal Hospital. That is an amazing story in itself. See https://www.spiritumduo.com for the full story.\nI have also been working on a new system to streamline and automate the creation and maintenance of documentation for clinical safety reports. A live prototype can be found at https://www.dcsalliance.org/. Just ask me for a demo or login credentials."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "text": "I am free for most things digital and healthcare. However, my main interests lie in:\n\nCoding\nBuilding great apps to improve healthcare delivery\nDigital health Education\nLocum work in medicine / respiratory.\n\n\nPlease see the Let’s Do Digital website for educational offerings relating to digital healthcare."
   },
   {
     "objectID": "mark-bailey-cv.html#books-published",
@@ -42,53 +35,46 @@
     "text": "Awards\n\nBest Silver Quality Improvement presentation, Nov 2020, Gloucestershire Royal Hospital. For work done to improve the sleep service.\n\nBest Presentation Award, 2015, East England Deanery. Awarded first prize for a presentation I gave in regards to our mock OSCE work.\n\nFoundation Trainee Award 2014-15, West Suffolk Hospital. Awarded for organising an exemplary final year mock OSCE, as well as for completing an important audit covering the safe and effective sedation of paediatric patients for imaging purposes."
   },
   {
+    "objectID": "mark-bio.html",
+    "href": "mark-bio.html",
+    "title": "Mark’s Digital Healthcare Bio",
+    "section": "",
+    "text": "I have had quite a few people ask me how did I get to the point where I am in regards to clinical informatics, and so I thought I would write a quick biography on the topic.\nI have always had an interest in all things digital. I played on my Dad’s Apple II computer as a young child, and then played on a range of gaming consoles growing up. I started playing with internet-of-things in 2014 on the Arduino plateform, and started to automated my house for fun. I also learnt about python and linux when I started building my own webpage as part of the home automation.\nSo, with this interest in automating things, basically to take over the boring and tedious tasks, I applied some of this digital knowledge at work. I was trained up to help run the sleep service at Gloucestershire Royal Hospital in April 2018 and was asked to help with the services back log. We had over 350 sleep studies to report and a large percentage of patients waiting over a year for treatment. So, I diligently went through the studies, but it was a very monotonous and boring task. After my first 50 sleep studies (it took some time due to other commitments), I thought there must be a better way of doing this. So in December 2018 I built a very basic Word document with macros that had some drop down lists that you would change for things like the severity of the patient’s condition and their weight, etc. Most of the sleep study reports were very similar apart for some slight changes between patients, so this new Word document work really well.\nAfter a while, I thought the Word document could be improved further. So I build an Excel file with macros that allowed you to add several patients, and then one after another you could print off reports. This is when one of my supervisors asked if I could build a database to house the whole sleep service data and pathway, from referral to treatment. I had never worked on a database before, but I thought I would give it a try. So I looked for a free database solution and found that the trust had Microsoft Access 2010. So I bought myself Access 2010 and VBA for Dummies, read both books all the way through and over the course of 2019 build a new database for the sleep service.\nThe new database was a success. The whole sleep service (apart from follow ups) is run within this new database. By the way, the name of this database is Spiritum: this is Latin for ‘breath’.\nSo my supervisor asked if I could add tuberculosis and bronchiectasis to the Spiritum database, and so I did. At the same time I added functionality so that Spiritum could connect to other clinical systems and grab sleep studies, blood results, imaging reports, etc.\nSome of the above functionality was carried out with robotic process automation (RPA). I started thinking, why not use RPA to speed up daily, routine clinical admin tasks. So I build a stand-alone RPA solution called Quick Spiritum. This connects to 9 clinicial systems, and showed a 30% reduction in the time to obtain results. It also can create and send referrals and requests for 4 diciplines. I have not studied the time savings with the latter functionality, but I would think it would be hours to days (as no need to hunt for paper request forms, send to the secretaries to then either fax, scan and email or post).\nThe next stage of my digital journey was to digitise the lung cancer pathway at Gloucestershire Royal Hospital. That is an amazing story in itself. See https://www.spiritumduo.com for the full story.\nI have also been working on a new system to streamline and automate the creation and maintenance of documentation for clinical safety reports. A live prototype can be found at https://www.dcsalliance.org/. Just ask me for a demo or login credentials."
+  },
+  {
     "objectID": "builds.html",
     "href": "builds.html",
     "title": "Previous digital health tech builds",
     "section": "",
-    "text": "The Spiritum app was unfortunately built in Microsoft Access 2010, so it is not really open source. I have done a QI project on this however and there is a poster PDF people can look at:\n\nhttps://www.gloshospitals.nhs.uk/media/documents/Mark_Bailey_-_Poster.pdf"
+    "text": "Spiritum (latin for breath) is a disease management system for sleep medicine, bronchiectasis and tuberculosis. The Spiritum app was built in Microsoft Access 2010, so it is not really open source and shareable. I have done a Quality Improvement project on the Spiritum Duo app however. See link below:\n\nhttps://www.gloshospitals.nhs.uk/media/documents/Mark_Bailey_-_Poster.pdf"
   },
   {
     "objectID": "builds.html#spiritum",
     "href": "builds.html#spiritum",
     "title": "Previous digital health tech builds",
     "section": "",
-    "text": "The Spiritum app was unfortunately built in Microsoft Access 2010, so it is not really open source. I have done a QI project on this however and there is a poster PDF people can look at:\n\nhttps://www.gloshospitals.nhs.uk/media/documents/Mark_Bailey_-_Poster.pdf"
+    "text": "Spiritum (latin for breath) is a disease management system for sleep medicine, bronchiectasis and tuberculosis. The Spiritum app was built in Microsoft Access 2010, so it is not really open source and shareable. I have done a Quality Improvement project on the Spiritum Duo app however. See link below:\n\nhttps://www.gloshospitals.nhs.uk/media/documents/Mark_Bailey_-_Poster.pdf"
   },
   {
     "objectID": "builds.html#quick-spiritum",
     "href": "builds.html#quick-spiritum",
     "title": "Previous digital health tech builds",
     "section": "Quick Spiritum",
-    "text": "Quick Spiritum\nThe Quick Spiritum RPA program is however open source but I have been asked by the trust I worked out to make the repository private. If anyone would like to access the code, please contant me.\nI have done an FCI hosted webinar on this program, which can be seen at:\n\nhttps://www.youtube.com/watch?v=aHEqIeTXUGE"
+    "text": "Quick Spiritum\nQuick Spiritum has shown a 33% increase in efficiency for undertaking routine admin tasks relating to managing patients. Quick Spiritum uses the AutoHotKey scripting language to use robotic process automation (RPA) to streamline the mouse clicks and keystrokes needed to interactive with the multitude of clinical systems that clinicians need to use. If you would like access to the underlying code, please do contact me.\nI have done an FCI hosted webinar on this program, which can be seen at:\n\nhttps://www.youtube.com/watch?v=aHEqIeTXUGE"
   },
   {
     "objectID": "builds.html#spiritum-duo",
     "href": "builds.html#spiritum-duo",
     "title": "Previous digital health tech builds",
     "section": "Spiritum Duo",
-    "text": "Spiritum Duo\nI have spoken both about the RPA program “Quick Spiritum” and the digital pathway work “Spiritum Duo” on an NHS SCW podcast:\n\nhttps://open.spotify.com/episode/5MR5Zj7kKehgFafeoVhOty\n\nThe GitHub code for the cancer pathway is housed at:\n\nhttps://github.com/spiritumduo/spiritumDuo\n\nThe logo that I design for Spiritum Duo is attached. The idea behind logo this is a dandelion being blown. As Spiritum Duo is latin for “breath two”, I thought it was a nice idea for a logo."
+    "text": "Spiritum Duo\nA detailed video of the design and digital architecture of Spiritum Duo can be found here.\n\nhttps://www.youtube.com/watch?v=5Fc-v3EE2Ws\n\nI have spoken both about the RPA program “Quick Spiritum” and the digital pathway work “Spiritum Duo” on an NHS SCW podcast:\n\nhttps://open.spotify.com/episode/5MR5Zj7kKehgFafeoVhOty\n\nThe GitHub code for the cancer pathway is housed at:\n\nhttps://github.com/spiritumduo/spiritumDuo\n\nThe idea behind Spiritum Duo logo this is a dandelion being blown. As Spiritum Duo is latin for “breath two”, I thought it was a nice idea for a logo."
   },
   {
-    "objectID": "builds.html#digital-clinical-safety-plateform",
-    "href": "builds.html#digital-clinical-safety-plateform",
+    "objectID": "builds.html#digital-clinical-safety-platform",
+    "href": "builds.html#digital-clinical-safety-platform",
     "title": "Previous digital health tech builds",
-    "section": "Digital Clinical Safety Plateform",
-    "text": "Digital Clinical Safety Plateform\nThe Digital Clinical Safety Plateform is a system to streamline and simplify writing clinical safety documentation. The code can be found at:\n\nhttps://github.com/digital-clinical-safety-alliance/digital-clinical-safety-platform"
-  },
-  {
-    "objectID": "offerings.html",
-    "href": "offerings.html",
-    "title": "Offerings",
-    "section": "",
-    "text": "I am free for most things digital and healthcare. However, my main interests lie in:\n\nCoding\nBuilding great apps to improve healthcare delivery\nDigital health Education\nLocum work in medicine / respiratory.\n\n\nPlease see the Let’s Do Digital website for educational offerings relating to digital healthcare."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Email: mark@bailey-medics.com"
+    "section": "Digital Clinical Safety Platform",
+    "text": "Digital Clinical Safety Platform\nThe Digital Clinical Safety Platform is a system to streamline and simplify writing clinical safety documentation. The code can be found at:\n\nhttps://github.com/digital-clinical-safety-alliance/digital-clinical-safety-platform\n\nI will be doing a webinar on this new platform later in 2024."
   },
   {
     "objectID": "index.html",
@@ -96,5 +82,19 @@
     "title": "Bailey Medics",
     "section": "",
     "text": "Welcome to the Bailey Medics Ltd Website. Please see the links above for further information."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: mark@bailey-medics.com"
   }
 ]

@@ -25,7 +25,7 @@
     "href": "builds.html",
     "title": "Previous digital health tech builds",
     "section": "",
-    "text": "The Spiritum app was unfortunately built in Microsoft Access 2010, so it is not really open source. I have done a QI project on this however and there is a poster PDF people can look at:\n\nhttps://www.gloshospitals.nhs.uk/media/documents/Mark_Bailey_-_Poster.pdf"
+    "text": "Spiritum (latin for breath) is a disease management system for sleep medicine, bronchiectasis and tuberculosis. The Spiritum app was built in Microsoft Access 2010, so it is not really open source and shareable. I have done a Quality Improvement project on the Spiritum Duo app however. See link below:\n\nhttps://www.gloshospitals.nhs.uk/media/documents/Mark_Bailey_-_Poster.pdf"
   },
   {
     "objectID": "mark-bio.html",
@@ -88,7 +88,7 @@
     "href": "builds.html#spiritum-duo",
     "title": "Previous digital health tech builds",
     "section": "Spiritum Duo",
-    "text": "Spiritum Duo\nI have spoken both about the RPA program “Quick Spiritum” and the digital pathway work “Spiritum Duo” on an NHS SCW podcast:\n\nhttps://open.spotify.com/episode/5MR5Zj7kKehgFafeoVhOty\n\nThe GitHub code for the cancer pathway is housed at:\n\nhttps://github.com/spiritumduo/spiritumDuo\n\nThe logo that I design for Spiritum Duo is attached. The idea behind logo this is a dandelion being blown. As Spiritum Duo is latin for “breath two”, I thought it was a nice idea for a logo."
+    "text": "Spiritum Duo\nA detailed video of the design and digital architecture of Spiritum Duo can be found here.\n\nhttps://www.youtube.com/watch?v=5Fc-v3EE2Ws\n\nI have spoken both about the RPA program “Quick Spiritum” and the digital pathway work “Spiritum Duo” on an NHS SCW podcast:\n\nhttps://open.spotify.com/episode/5MR5Zj7kKehgFafeoVhOty\n\nThe GitHub code for the cancer pathway is housed at:\n\nhttps://github.com/spiritumduo/spiritumDuo\n\nThe idea behind Spiritum Duo logo this is a dandelion being blown. As Spiritum Duo is latin for “breath two”, I thought it was a nice idea for a logo."
   },
   {
     "objectID": "builds.html#digital-clinical-safety-plateform",
@@ -102,13 +102,20 @@
     "href": "builds.html#spiritum",
     "title": "Previous digital health tech builds",
     "section": "",
-    "text": "The Spiritum app was unfortunately built in Microsoft Access 2010, so it is not really open source. I have done a QI project on this however and there is a poster PDF people can look at:\n\nhttps://www.gloshospitals.nhs.uk/media/documents/Mark_Bailey_-_Poster.pdf"
+    "text": "Spiritum (latin for breath) is a disease management system for sleep medicine, bronchiectasis and tuberculosis. The Spiritum app was built in Microsoft Access 2010, so it is not really open source and shareable. I have done a Quality Improvement project on the Spiritum Duo app however. See link below:\n\nhttps://www.gloshospitals.nhs.uk/media/documents/Mark_Bailey_-_Poster.pdf"
   },
   {
     "objectID": "builds.html#quick-spiritum",
     "href": "builds.html#quick-spiritum",
     "title": "Previous digital health tech builds",
     "section": "Quick Spiritum",
-    "text": "Quick Spiritum\nThe Quick Spiritum RPA program is however open source but I have been asked by the trust I worked out to make the repository private. If anyone would like to access the code, please contant me.\nI have done an FCI hosted webinar on this program, which can be seen at:\n\nhttps://www.youtube.com/watch?v=aHEqIeTXUGE"
+    "text": "Quick Spiritum\nQuick Spiritum has shown a 33% increase in efficiency for undertaking routine admin tasks relating to managing patients. Quick Spiritum uses the AutoHotKey scripting language to use robotic process automation (RPA) to streamline the mouse clicks and keystrokes needed to interactive with the multitude of clinical systems that clinicians need to use. If you would like access to the underlying code, please do contact me.\nI have done an FCI hosted webinar on this program, which can be seen at:\n\nhttps://www.youtube.com/watch?v=aHEqIeTXUGE"
+  },
+  {
+    "objectID": "builds.html#digital-clinical-safety-platform",
+    "href": "builds.html#digital-clinical-safety-platform",
+    "title": "Previous digital health tech builds",
+    "section": "Digital Clinical Safety Platform",
+    "text": "Digital Clinical Safety Platform\nThe Digital Clinical Safety Platform is a system to streamline and simplify writing clinical safety documentation. The code can be found at:\n\nhttps://github.com/digital-clinical-safety-alliance/digital-clinical-safety-platform\n\nI will be doing a webinar on this new platform later in 2024."
   }
 ]

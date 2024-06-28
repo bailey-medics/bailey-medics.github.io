@@ -4,19 +4,23 @@ title: "Previous digital health tech builds"
 
 ## Spiritum
 
-The Spiritum app was unfortunately built in Microsoft Access 2010, so it is not really open source. I have done a QI project on this however and there is a poster PDF people can look at:
+Spiritum (latin for breath) is a disease management system for sleep medicine, bronchiectasis and tuberculosis. The Spiritum app was built in Microsoft Access 2010, so it is not really open source and shareable. I have done a Quality Improvement project on the Spiritum Duo app however. See link below:
 
 <p style="margin-left: 40px;">[https://www.gloshospitals.nhs.uk/media/documents/Mark_Bailey_-_Poster.pdf](https://www.gloshospitals.nhs.uk/media/documents/Mark_Bailey_-_Poster.pdf)</p>
 
 ## Quick Spiritum
 
-The Quick Spiritum RPA program is however open source but I have been asked by the trust I worked out to make the repository private. If anyone would like to access the code, please contant me.
+Quick Spiritum has shown a 33% increase in efficiency for undertaking routine admin tasks relating to managing patients. Quick Spiritum uses the AutoHotKey scripting language to use robotic process automation (RPA) to streamline the mouse clicks and keystrokes needed to interactive with the multitude of clinical systems that clinicians need to use. If you would like access to the underlying code, please do contact me.
 
 I have done an FCI hosted webinar on this program, which can be seen at:
 
 <p style="margin-left: 40px;">[https://www.youtube.com/watch?v=aHEqIeTXUGE](https://www.youtube.com/watch?v=aHEqIeTXUGE)</p>
 
 ## Spiritum Duo
+
+A detailed video of the design and digital architecture of Spiritum Duo can be found here.
+
+<p style="margin-left: 40px;">[https://www.youtube.com/watch?v=5Fc-v3EE2Ws](https://www.youtube.com/watch?v=5Fc-v3EE2Ws)</p>
 
 I have spoken both about the RPA program “Quick Spiritum” and the digital pathway work “Spiritum Duo” on an NHS SCW podcast:
 
@@ -26,10 +30,12 @@ The GitHub code for the cancer pathway is housed at:
 
 <p style="margin-left: 40px;">[https://github.com/spiritumduo/spiritumDuo](https://github.com/spiritumduo/spiritumDuo)</p>
 
-The logo that I design for Spiritum Duo is attached. The idea behind logo this is a dandelion being blown. As Spiritum Duo is latin for “breath two”, I thought it was a nice idea for a logo.
+The idea behind Spiritum Duo logo this is a dandelion being blown. As Spiritum Duo is latin for “breath two”, I thought it was a nice idea for a logo.
 
-## Digital Clinical Safety Plateform
+## Digital Clinical Safety Platform
 
-The Digital Clinical Safety Plateform is a system to streamline and simplify writing clinical safety documentation. The code can be found at:
+The Digital Clinical Safety Platform is a system to streamline and simplify writing clinical safety documentation. The code can be found at:
 
 <p style="margin-left: 40px;">[https://github.com/digital-clinical-safety-alliance/digital-clinical-safety-platform](https://github.com/digital-clinical-safety-alliance/digital-clinical-safety-platform)</p>
+
+I will be doing a webinar on this new platform later in 2024.

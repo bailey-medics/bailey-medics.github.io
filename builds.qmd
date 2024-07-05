@@ -18,6 +18,10 @@ I have done an FCI hosted webinar on this program, which can be seen at:
 
 ## Spiritum Duo
 
+A good overview video of Spiritum Duo can be found here
+
+<p style="margin-left: 40px;">[https://www.youtube.com/watch?v=1W9N7gA210s](https://www.youtube.com/watch?v=1W9N7gA210s)</p>
+
 A detailed video of the design and digital architecture of Spiritum Duo can be found here.
 
 <p style="margin-left: 40px;">[https://www.youtube.com/watch?v=5Fc-v3EE2Ws](https://www.youtube.com/watch?v=5Fc-v3EE2Ws)</p>

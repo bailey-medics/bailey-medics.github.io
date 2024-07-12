@@ -9,11 +9,11 @@ title: "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc"
 | Duration           | Position                                                                                                                         |
 |--------------------|----------------------------------------------------------------------------------------------------------------------------------|
 | Mar 2024 - now    | Director for Bailey Medics Limited (working with the trading name Let's Do Digital)                                             |
-| Mar 2024 - June   | Physician engineer (aka clinician-who-codes), Canvas-Medical, San Francisco, USA.                                               |
-| Mar 2023 onwards  | Locum Respiratory and Sleep Consultant, Salisbury, East Grinstead, and Bristol. Both remote and onsite clinical practice.     |
+| Mar 2024 - June   | Physician engineer (aka clinician-who-codes), Canvas Medical, San Francisco, USA. Worked on converting clinical protocols, using large language models, into python code to be subsequently used in the Canvas Medical EPR.                                               |
+| Mar 2023 onwards  | Locum Respiratory and Sleep Consultant, Salisbury, East Grinstead, and Bristol. Both remote and on-site clinical practice.     |
 | Feb – Mar 2023    | Locum Registrar in Emergency care and SDEC                                                                                       |
 | Jan - July 2023   | Interim Chair of Council, Faculty of Clinical Informatics (FCI). Leading 1200+ clinical informatics members in this national position. |
-| Nov 2022 - Mar 2023 | Clinical Informatics and Sleep Advisor, Sleepstation. Working closely with this established health tech company to build a new international sleep apnea digital investigation and treatment service. |
+| Nov 2022 - Mar 2023 | Clinical Informatics and Sleep Advisor, Sleepstation. Working closely with this established health tech company to build a new international sleep apnoea digital investigation and treatment service. |
 | 2017 - Feb 2023   | Speciality Doctor and Digital Lead in Respiratory Medicine. Through logistical and digital optimizations, dramatically reduced sleep treatment breach rates by 79%, utilizing an in-house built digital solution. Built digital solution for improving the management of patients with tuberculosis and bronchiectasis. Reduced clinical admin time by 30% via an in-house built robotic process automation program. Successfully managed a DevOps team and collaborated with NHS-X innovation lab to build an open-source and modular digital lung cancer pathway prototype. This prototype is being implemented at Oxford University Hospital for anti-cancer agent management. Organized and ran clinician and patient stakeholder meetings. Placement student supervisor. Successfully secured £36,000 funding for 2 computer science students on placement at the trust. Strong and close working relationship with CIO, deputy CIO, CCIO, and medical director. Active member of the project board for EPR PaperLite and Order Comms outpatients build. Strong networking skills, including working closely with the Medical Director of the SWAG cancer alliance to enable better digital innovation in the Southwest. On EPR implementation input group. Led own named sleep clinics, sleep MDTs, and ward rounds. Fully competent in thoracic ultrasound scanning and pleural procedures. |
 | 2022 onwards      | Visiting Fellow in Health Tech, University of Gloucestershire                                                                     |
 | 2016-17           | Locum Senior House Officer                                                                                                       |
@@ -55,7 +55,7 @@ title: "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc"
 ## Books Published
 
 * Bailey MA. Bailey’s Pharmaceutical Flash Cards. Kindle Format.	
-* Bailey MA. Clinical Examinations and Skills – Medical Student Centered. Kindle Format.	
+* Bailey MA. Clinical Examinations and Skills – Medical Student Centred. Kindle Format.	
 
 ## Papers Published
 

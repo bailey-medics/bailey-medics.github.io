@@ -48,6 +48,7 @@ title: "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc"
 
 | Duration           | Course                                                                                                                            |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| 2023               | Digital Clinical Safety Training, NHS England                                                                                                           |
 | 2023               | Trustee training, NCVO                                                                                                           |
 | 2021               | Advanced Life Support Certificate                                                                                                 |
 | 2018               | Edinburgh course in Sleep medicine                                                                                                |

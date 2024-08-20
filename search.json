@@ -7,6 +7,34 @@
     "text": "Welcome to the Bailey Medics Ltd Website. Please see the links above for further information."
   },
   {
+    "objectID": "mark-bailey-cv.html#books-published",
+    "href": "mark-bailey-cv.html#books-published",
+    "title": "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc",
+    "section": "Books Published",
+    "text": "Books Published\n\nBailey MA. Bailey’s Pharmaceutical Flash Cards. Kindle Format.\n\nBailey MA. Clinical Examinations and Skills – Medical Student Centred. Kindle Format."
+  },
+  {
+    "objectID": "mark-bailey-cv.html#papers-published",
+    "href": "mark-bailey-cv.html#papers-published",
+    "title": "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc",
+    "section": "Papers Published",
+    "text": "Papers Published\n\nBailey MA, Saraswatula A, Dale G, Softly L. Paediatric sedation for imaging is safe and effective in a district general hospital. Br J Radiol. 2016; 89: 20150483.\n\nBailey MA, Ingram MJ, Naughton DP, Rutt KJ and Dodd HT. Aminosalicylic Acid Conjugates of EDTA as Potential Anti-inflammatory Pro-drugs: Synthesis, Copper Chelation and Superoxide Dismutase-Like Activities. Transition Met Chem. 2008; 33: 195-202.\nBailey MA, Ingram MJ, and Naughton DP. A Novel Anti-oxidant and Anti-cancer Strategy: A Peptoid Anti-inflammatory Drug Conjugate with SOD Mimic Activity. Biochem Biophy Res Comm. 2004; 31: 1155-1158."
+  },
+  {
+    "objectID": "mark-bailey-cv.html#presentations-at-conferences",
+    "href": "mark-bailey-cv.html#presentations-at-conferences",
+    "title": "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc",
+    "section": "Presentations at Conferences",
+    "text": "Presentations at Conferences\n\n“Digital Health ReWired, March 2023, Presented the implementation plan for Spiritum Duo at Oxford University Hospital NHS Foundation Trust.\nNHS-R conference, November 2022, presented the Lung cancer Digital Pathway work.\nNHS PyCom Show and Tell, April 2022, presented the Lung cancer Digital Pathway work.\nePoster, Faculty of Clinical informatics, 1st July 2021, presenting a stand-alone RPA program (called Quick Spiritum) and how it has reduced time for routine clinical tasks by 30%.”\nTwo ePosters at the ERS Sleep and Breathing conference, 16-17th April 2021. Presented sleep service improvements which lead to a 79% reduction in breach rates through the use of a new pathway and the use of automation.\n\nEast of England Post-OSCE Conference, 2015. As the lead organiser, I presented the work my team undertook to organise and run a highly successful mock OSCE for final year medical students. We helped 9 out of 31 students gain distinctions in their final examinations. Ordinarily, this cohort of students only receives around 3-4 distinctions a year."
+  },
+  {
+    "objectID": "mark-bailey-cv.html#awards",
+    "href": "mark-bailey-cv.html#awards",
+    "title": "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc",
+    "section": "Awards",
+    "text": "Awards\n\nBest Silver Quality Improvement presentation, Nov 2020, Gloucestershire Royal Hospital. For work done to improve the sleep service.\n\nBest Presentation Award, 2015, East England Deanery. Awarded first prize for a presentation I gave in regards to our mock OSCE work.\n\nFoundation Trainee Award 2014-15, West Suffolk Hospital. Awarded for organising an exemplary final year mock OSCE, as well as for completing an important audit covering the safe and effective sedation of paediatric patients for imaging purposes."
+  },
+  {
     "objectID": "builds.html",
     "href": "builds.html",
     "title": "Previous digital health tech builds",
@@ -42,46 +70,18 @@
     "text": "Digital Clinical Safety Platform\nThe Digital Clinical Safety Platform is a system to streamline and simplify writing clinical safety documentation. The code can be found at:\n\nhttps://github.com/digital-clinical-safety-alliance/digital-clinical-safety-platform\n\nI will be doing a webinar on this new platform later in 2024."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "mark-bailey-cv.html#books-published",
-    "href": "mark-bailey-cv.html#books-published",
-    "title": "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc",
-    "section": "Books Published",
-    "text": "Books Published\n\nBailey MA. Bailey’s Pharmaceutical Flash Cards. Kindle Format.\n\nBailey MA. Clinical Examinations and Skills – Medical Student Centred. Kindle Format."
-  },
-  {
-    "objectID": "mark-bailey-cv.html#papers-published",
-    "href": "mark-bailey-cv.html#papers-published",
-    "title": "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc",
-    "section": "Papers Published",
-    "text": "Papers Published\n\nBailey MA, Saraswatula A, Dale G, Softly L. Paediatric sedation for imaging is safe and effective in a district general hospital. Br J Radiol. 2016; 89: 20150483.\n\nBailey MA, Ingram MJ, Naughton DP, Rutt KJ and Dodd HT. Aminosalicylic Acid Conjugates of EDTA as Potential Anti-inflammatory Pro-drugs: Synthesis, Copper Chelation and Superoxide Dismutase-Like Activities. Transition Met Chem. 2008; 33: 195-202.\nBailey MA, Ingram MJ, and Naughton DP. A Novel Anti-oxidant and Anti-cancer Strategy: A Peptoid Anti-inflammatory Drug Conjugate with SOD Mimic Activity. Biochem Biophy Res Comm. 2004; 31: 1155-1158."
-  },
-  {
-    "objectID": "mark-bailey-cv.html#presentations-at-conferences",
-    "href": "mark-bailey-cv.html#presentations-at-conferences",
-    "title": "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc",
-    "section": "Presentations at Conferences",
-    "text": "Presentations at Conferences\n\n“Digital Health ReWired, March 2023, Presented the implementation plan for Spiritum Duo at Oxford University Hospital NHS Foundation Trust.\nNHS-R conference, November 2022, presented the Lung cancer Digital Pathway work.\nNHS PyCom Show and Tell, April 2022, presented the Lung cancer Digital Pathway work.\nePoster, Faculty of Clinical informatics, 1st July 2021, presenting a stand-alone RPA program (called Quick Spiritum) and how it has reduced time for routine clinical tasks by 30%.”\nTwo ePosters at the ERS Sleep and Breathing conference, 16-17th April 2021. Presented sleep service improvements which lead to a 79% reduction in breach rates through the use of a new pathway and the use of automation.\n\nEast of England Post-OSCE Conference, 2015. As the lead organiser, I presented the work my team undertook to organise and run a highly successful mock OSCE for final year medical students. We helped 9 out of 31 students gain distinctions in their final examinations. Ordinarily, this cohort of students only receives around 3-4 distinctions a year."
-  },
-  {
-    "objectID": "mark-bailey-cv.html#awards",
-    "href": "mark-bailey-cv.html#awards",
-    "title": "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc",
-    "section": "Awards",
-    "text": "Awards\n\nBest Silver Quality Improvement presentation, Nov 2020, Gloucestershire Royal Hospital. For work done to improve the sleep service.\n\nBest Presentation Award, 2015, East England Deanery. Awarded first prize for a presentation I gave in regards to our mock OSCE work.\n\nFoundation Trainee Award 2014-15, West Suffolk Hospital. Awarded for organising an exemplary final year mock OSCE, as well as for completing an important audit covering the safe and effective sedation of paediatric patients for imaging purposes."
-  },
-  {
     "objectID": "offerings.html",
     "href": "offerings.html",
     "title": "Offerings",
     "section": "",
     "text": "I am free for most things digital and healthcare. However, my main interests lie in:\n\nCoding\nBuilding great apps to improve healthcare delivery\nDigital health Education\nLocum work in medicine / respiratory.\n\n\nPlease see the Let’s Do Digital website for educational offerings relating to digital healthcare."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "mark-bio.html",

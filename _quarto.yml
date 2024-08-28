@@ -17,6 +17,14 @@ website:
         text: Contact
       - href: offerings.qmd
         text: Offerings
+  
+  page-footer: 
+    left: 
+      - href: company-information.qmd
+        text: Company information
+    right: 
+      - icon: twitter 
+        href: https://twitter.com/markbaileyci
 
   favicon: media/bm-logo.png
 

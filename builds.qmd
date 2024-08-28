@@ -38,8 +38,10 @@ The idea behind Spiritum Duo logo this is a dandelion being blown. As Spiritum D
 
 ## Digital Clinical Safety Platform
 
-The Digital Clinical Safety Platform is a system to streamline and simplify writing clinical safety documentation. The code can be found at:
+The Digital Clinical Safety Platform (DCSP) is a system to streamline and simplify the writing of clinical safety documentation. The DCSP has been created in collaboration with the **Digital Clinical Safety Alliance**.
+
+The code can be found at:
 
 <p style="margin-left: 40px;">[https://github.com/digital-clinical-safety-alliance/digital-clinical-safety-platform](https://github.com/digital-clinical-safety-alliance/digital-clinical-safety-platform)</p>
 
-I will be doing a webinar on this new platform later in 2024.
+I will be doing a webinar on the 11th of September. You can register for the event [here](https://letsdodigital.org/tickets/dcsa/1.html).

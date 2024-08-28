@@ -35,6 +35,7 @@ title: "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc"
 
 | Duration           | Degree/Course                                                                                                                     |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| 2024           | JavaScript Coding Course, Codecademy.com  |
 | 2021-23            | NHS Digital Academy Digital Leadership MSc with Merit, Imperial College London                                                    |
 | 2023               | Silver QI (Quality Improvement), Gloucestershire Hospitals NHS Foundation Trust                                                   |
 | 2022               | Edward Jenner programme leadership course, NHS Leadership Academy                                                                 |

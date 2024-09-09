@@ -35,11 +35,11 @@ title: "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc"
 
 | Duration           | Degree/Course                                                                                                                     |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| 2024           | Coding Course, Codecademy.com, Typescript, JavaScript, Node.js, Express.js and React.js  |
+| 2024               | Coding Course, Codecademy.com, Typescript, JavaScript, Node.js, Express.js and React.js  |
 | 2021-23            | NHS Digital Academy Digital Leadership MSc with Merit, Imperial College London                                                    |
 | 2023               | Silver QI (Quality Improvement), Gloucestershire Hospitals NHS Foundation Trust                                                   |
 | 2022               | Edward Jenner programme leadership course, NHS Leadership Academy                                                                 |
-| 2019               | MRCP exams completed                                                                                                             |
+| 2019               | MRCP exams completed                                                                                                              |
 | 2009-13            | Graduate Course in Medicine, University of Cambridge                                                                              |
 | 2003-07            | PhD in Medicinal Chemistry, University of Brighton                                                                                |
 | 2000-03            | BSc (Hons) in Chemistry, University of Southampton                                                                                |
@@ -48,11 +48,24 @@ title: "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc"
 
 | Duration           | Course                                                                                                                            |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| 2023               | Digital Clinical Safety Training, NHS England                                                                                                           |
-| 2023               | Trustee training, NCVO                                                                                                           |
+| 2023               | Digital Clinical Safety Training, NHS England                                                                                     |
+| 2023               | Trustee training, NCVO                                                                                                            |
 | 2021               | Advanced Life Support Certificate                                                                                                 |
 | 2018               | Edinburgh course in Sleep medicine                                                                                                |
 | 2017               | West Midlands Acute Internal Medicine Conference, Queen Elizabeth Hospital, Birmingham                                            |
+
+
+### Programming Proficiences
+
+| Language / Framework  | Level                                                                                                                          |
+|-----------------------|-------------------------------------------------------------------------------------------------------------|
+| Python                | Expert                                                                                                        |
+| Typescript            | Intermediate                                                                                        |
+| Django                 | Proficient                                                                                            |
+| React                | Intermediate                                                                                               |
+| Visual Basics for Applications  | Proficient                                          |
+| C++                   | Proficient  |
+| AutoHotKey            | Proficient  |
 
 ## Books Published
 

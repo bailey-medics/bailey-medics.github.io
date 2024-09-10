@@ -2,4 +2,13 @@
 title: "Bailey Medics"
 ---
 
-Welcome to the Bailey Medics Ltd Website. Please see the links above for further information.
+![](/media/glasses-and-code.jpg){alt="Glasses in front of a computer screen, which is showing some code."}
+
+At Bailey Medics, we’re passionate about blending healthcare with technology to create solutions that truly make a difference. Founded by Dr. Mark Bailey, our mission is to support medical professionals and patients alike with tailored, innovative digital healthcare systems. Whether you're looking for bespoke healthcare builds or expert consultancy, we’re here to help you navigate the evolving world of digital health. Join us in reshaping the future of care, where technology meets compassion.
+
+Please see select a page below to view further information:
+
+* [Mark Bailey CV](./mark-bailey-cv.html)
+* [Mark Bailey Bio](./mark-bio.html)
+* [Mark Bailey Builds](./builds.html)
+* [Offerings from Bailey Medics](./offerings.html)

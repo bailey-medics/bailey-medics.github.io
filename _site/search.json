@@ -67,7 +67,7 @@
     "href": "mark-bailey-cv.html#papers-published",
     "title": "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc",
     "section": "Papers Published",
-    "text": "Papers Published\n\nBailey MA, Saraswatula A, Dale G, Softly L. Paediatric sedation for imaging is safe and effective in a district general hospital. Br J Radiol. 2016; 89: 20150483.\n\nBailey MA, Ingram MJ, Naughton DP, Rutt KJ and Dodd HT. Aminosalicylic Acid Conjugates of EDTA as Potential Anti-inflammatory Pro-drugs: Synthesis, Copper Chelation and Superoxide Dismutase-Like Activities. Transition Met Chem. 2008; 33: 195-202.\nBailey MA, Ingram MJ, and Naughton DP. A Novel Anti-oxidant and Anti-cancer Strategy: A Peptoid Anti-inflammatory Drug Conjugate with SOD Mimic Activity. Biochem Biophy Res Comm. 2004; 31: 1155-1158."
+    "text": "Papers Published\n\nBailey MA, Saraswatula A, Dale G, Softly L. Paediatric sedation for imaging is safe and effective in a district general hospital. Br J Radiol. 2016; 89: 20150483.\n\nBailey MA, Ingram MJ, Naughton DP, Rutt KJ and Dodd HT. Aminosalicylic Acid Conjugates of EDTA as Potential Anti-inflammatory Pro-drugs: Synthesis, Copper Chelation and Superoxide Dismutase-Like Activities. Transition Met Chem. 2008; 33: 195-202.\n\nBailey MA, Ingram MJ, and Naughton DP. A Novel Anti-oxidant and Anti-cancer Strategy: A Peptoid Anti-inflammatory Drug Conjugate with SOD Mimic Activity. Biochem Biophy Res Comm. 2004; 31: 1155-1158."
   },
   {
     "objectID": "mark-bailey-cv.html#presentations-at-conferences",
@@ -124,5 +124,12 @@
     "title": "Company information",
     "section": "",
     "text": "Also trading under the trade name of Let’s Do Digital, Bailey Medics Ltd company address is:\n\nBrooklands Place Unit 5 Brooklands Road Sale Cheshire United Kingdom, M33 3SD\n\nCompany number: 15604352"
+  },
+  {
+    "objectID": "builds.html#health-env",
+    "href": "builds.html#health-env",
+    "title": "Previous digital health tech builds",
+    "section": "Health ENV",
+    "text": "Health ENV\nHere I created a platform for teaching others how digital systems work in the NHS. Think of it as a Flight simulator of EPRs. Health ENV is also a platform for dry testing your new digital system in a mock trust like environment.\n\nhttps://www.youtube.com/watch?v=kYEQ6qValXw"
   }
 ]

@@ -1,31 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "About this site"
+    "text": "Email: mark@bailey-medics.com"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Bailey Medics",
+    "objectID": "offerings.html",
+    "href": "offerings.html",
+    "title": "Offerings",
     "section": "",
-    "text": "At Bailey Medics, we’re passionate about blending healthcare with technology to create solutions that truly make a difference. Founded by Dr. Mark Bailey, our mission is to support medical professionals and patients alike with tailored, innovative digital healthcare systems. Whether you’re looking for bespoke healthcare builds or expert consultancy, we’re here to help you navigate the evolving world of digital health. Join us in reshaping the future of care, where technology meets compassion.\nPlease see select a page below to view further information:\n\nMark Bailey CV\nMark Bailey Bio\nMark Bailey Builds\nOfferings from Bailey Medics"
-  },
-  {
-    "objectID": "mark-bio.html",
-    "href": "mark-bio.html",
-    "title": "Mark’s Digital Healthcare Bio",
-    "section": "",
-    "text": "I have had quite a few people ask me how did I get to the point where I am in regards to clinical informatics, and so I thought I would write a quick biography on the topic.\nI have always had an interest in all things digital. I played on my Dad’s Apple II computer as a young child, and then played on a range of gaming consoles growing up. I started playing with internet-of-things in 2014 on the Arduino platform, and started to automated my house for fun. I also learnt about python and linux when I started building my own webpage as part of the home automation.\nSo, with this interest in automating things, basically to take over the boring and tedious tasks, I applied some of this digital knowledge at work. I was trained up to help run the sleep service at Gloucestershire Royal Hospital in April 2018 and was asked to help with the services back log. We had over 350 sleep studies to report and a large percentage of patients waiting over a year for treatment. So, I diligently went through the studies, but it was a very monotonous and boring task. After my first 50 sleep studies (it took some time due to other commitments), I thought there must be a better way of doing this. So in December 2018 I built a very basic Word document with macros that had some drop down lists that you would change for things like the severity of the patient’s condition and their weight, etc. Most of the sleep study reports were very similar apart for some slight changes between patients, so this new Word document work really well.\nAfter a while, I thought the Word document could be improved further. So I build an Excel file with macros that allowed you to add several patients, and then one after another you could print off reports. This is when one of my supervisors asked if I could build a database to house the whole sleep service data and pathway, from referral to treatment. I had never worked on a database before, but I thought I would give it a try. So I looked for a free database solution and found that the trust had Microsoft Access 2010. So I bought myself Access 2010 and VBA for Dummies, read both books all the way through and over the course of 2019 build a new database for the sleep service.\nThe new database was a success. The whole sleep service (apart from follow ups) is run within this new database. By the way, the name of this database is Spiritum: this is Latin for ‘breath’.\nSo my supervisor asked if I could add tuberculosis and bronchiectasis to the Spiritum database, and so I did. At the same time I added functionality so that Spiritum could connect to other clinical systems and grab sleep studies, blood results, imaging reports, etc.\nSome of the above functionality was carried out with robotic process automation (RPA). I started thinking, why not use RPA to speed up daily, routine clinical admin tasks. So I build a stand-alone RPA solution called Quick Spiritum. This connects to 9 clinical systems, and showed a 30% reduction in the time to obtain results. It also can create and send referrals and requests for 4 disciplines. I have not studied the time savings with the latter functionality, but I would think it would be hours to days (as no need to hunt for paper request forms, send to the secretaries to then either fax, scan and email or post).\nThe next stage of my digital journey was to digitise the lung cancer pathway at Gloucestershire Royal Hospital. That is an amazing story in itself. See https://www.spiritumduo.com for the full story.\nI have also been working on a new system to streamline and automate the creation and maintenance of documentation for clinical safety reports. A live prototype can be found at https://www.dcsalliance.org/. Just ask me for a demo or login credentials.\nMore recent work has been working with CanVas Medical and Large Language Models to convert clinical protocols into python code to be used a clinical decision support systems for the Canvas Medical EPR.\nI have also recently been working with Joanna McLaughlin and Phil D. Hall on stakeholders collaboration for an AI chatbot to be used for weight management."
-  },
-  {
-    "objectID": "company-information.html",
-    "href": "company-information.html",
-    "title": "Company information",
-    "section": "",
-    "text": "Also trading under the trade name of Let’s Do Digital, Bailey Medics Ltd company address is:\n\nBrooklands Place Unit 5 Brooklands Road Sale Cheshire United Kingdom, M33 3SD\n\nCompany number: 15604352"
+    "text": "I am free for most things digital and healthcare. However, my main interests lie in:\n\nCoding\nBuilding great apps to improve healthcare delivery\nDigital health education\nStakeholder engagement.\nLocum work in medicine / respiratory.\n\nPlease see the Let’s Do Digital website for educational offerings relating to digital healthcare."
   },
   {
     "objectID": "builds.html",
@@ -70,6 +56,13 @@
     "text": "Digital Clinical Safety Platform\nThe Digital Clinical Safety Platform (DCSP) is a system to streamline and simplify the writing of clinical safety documentation. The DCSP has been created in collaboration with the Digital Clinical Safety Alliance.\nThe code can be found at:\n\nhttps://github.com/digital-clinical-safety-alliance/digital-clinical-safety-platform\n\nI will be doing a webinar on the 11th of September. You can register for the event here."
   },
   {
+    "objectID": "mark-bio.html",
+    "href": "mark-bio.html",
+    "title": "Mark’s Digital Healthcare Bio",
+    "section": "",
+    "text": "I have had quite a few people ask me how did I get to the point where I am in regards to clinical informatics, and so I thought I would write a quick biography on the topic.\nI have always had an interest in all things digital. I played on my Dad’s Apple II computer as a young child, and then played on a range of gaming consoles growing up. I started playing with internet-of-things in 2014 on the Arduino platform, and started to automated my house for fun. I also learnt about python and linux when I started building my own webpage as part of the home automation.\nSo, with this interest in automating things, basically to take over the boring and tedious tasks, I applied some of this digital knowledge at work. I was trained up to help run the sleep service at Gloucestershire Royal Hospital in April 2018 and was asked to help with the services back log. We had over 350 sleep studies to report and a large percentage of patients waiting over a year for treatment. So, I diligently went through the studies, but it was a very monotonous and boring task. After my first 50 sleep studies (it took some time due to other commitments), I thought there must be a better way of doing this. So in December 2018 I built a very basic Word document with macros that had some drop down lists that you would change for things like the severity of the patient’s condition and their weight, etc. Most of the sleep study reports were very similar apart for some slight changes between patients, so this new Word document work really well.\nAfter a while, I thought the Word document could be improved further. So I build an Excel file with macros that allowed you to add several patients, and then one after another you could print off reports. This is when one of my supervisors asked if I could build a database to house the whole sleep service data and pathway, from referral to treatment. I had never worked on a database before, but I thought I would give it a try. So I looked for a free database solution and found that the trust had Microsoft Access 2010. So I bought myself Access 2010 and VBA for Dummies, read both books all the way through and over the course of 2019 build a new database for the sleep service.\nThe new database was a success. The whole sleep service (apart from follow ups) is run within this new database. By the way, the name of this database is Spiritum: this is Latin for ‘breath’.\nSo my supervisor asked if I could add tuberculosis and bronchiectasis to the Spiritum database, and so I did. At the same time I added functionality so that Spiritum could connect to other clinical systems and grab sleep studies, blood results, imaging reports, etc.\nSome of the above functionality was carried out with robotic process automation (RPA). I started thinking, why not use RPA to speed up daily, routine clinical admin tasks. So I build a stand-alone RPA solution called Quick Spiritum. This connects to 9 clinical systems, and showed a 30% reduction in the time to obtain results. It also can create and send referrals and requests for 4 disciplines. I have not studied the time savings with the latter functionality, but I would think it would be hours to days (as no need to hunt for paper request forms, send to the secretaries to then either fax, scan and email or post).\nThe next stage of my digital journey was to digitise the lung cancer pathway at Gloucestershire Royal Hospital. That is an amazing story in itself. See https://www.spiritumduo.com for the full story.\nI have also been working on a new system to streamline and automate the creation and maintenance of documentation for clinical safety reports. A live prototype can be found at https://www.dcsalliance.org/. Just ask me for a demo or login credentials.\nMore recent work has been working with CanVas Medical and Large Language Models to convert clinical protocols into python code to be used a clinical decision support systems for the Canvas Medical EPR.\nI have also recently been working with Joanna McLaughlin and Phil D. Hall on stakeholders collaboration for an AI chatbot to be used for weight management."
+  },
+  {
     "objectID": "mark-bailey-cv.html#books-published",
     "href": "mark-bailey-cv.html#books-published",
     "title": "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc",
@@ -98,17 +91,24 @@
     "text": "Awards\n\nBest Silver Quality Improvement presentation, Nov 2020, Gloucestershire Royal Hospital. For work done to improve the sleep service.\n\nBest Presentation Award, 2015, East England Deanery. Awarded first prize for a presentation I gave in regards to our mock OSCE work.\n\nFoundation Trainee Award 2014-15, West Suffolk Hospital. Awarded for organising an exemplary final year mock OSCE, as well as for completing an important audit covering the safe and effective sedation of paediatric patients for imaging purposes."
   },
   {
-    "objectID": "offerings.html",
-    "href": "offerings.html",
-    "title": "Offerings",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "I am free for most things digital and healthcare. However, my main interests lie in:\n\nCoding\nBuilding great apps to improve healthcare delivery\nDigital health education\nStakeholder engagement.\nLocum work in medicine / respiratory.\n\nPlease see the Let’s Do Digital website for educational offerings relating to digital healthcare."
+    "text": "About this site"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "company-information.html",
+    "href": "company-information.html",
+    "title": "Company information",
     "section": "",
-    "text": "Email: mark@bailey-medics.com"
+    "text": "Also trading under the trade name of Let’s Do Digital, Bailey Medics Ltd company address is:\n\nBrooklands Place Unit 5 Brooklands Road Sale Cheshire United Kingdom, M33 3SD\n\nCompany number: 15604352"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bailey Medics",
+    "section": "",
+    "text": "At Bailey Medics, we’re passionate about blending healthcare with technology to create solutions that truly make a difference. Founded by Dr. Mark Bailey, our mission is to support medical professionals and patients alike with tailored, innovative digital healthcare systems. Whether you’re looking for bespoke healthcare builds or expert consultancy, we’re here to help you navigate the evolving world of digital health. Join us in reshaping the future of care, where technology meets compassion.\nPlease see select a page below to view further information:\n\nMark Bailey CV\nMark Bailey Bio\nMark Bailey Builds\nOfferings from Bailey Medics"
   }
 ]

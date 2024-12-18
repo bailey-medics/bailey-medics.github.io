@@ -8,6 +8,7 @@ title: "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc"
 
 | Duration           | Position                                                                                                                         |
 |--------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Nov 2024 - now    | Senior Physician Engineer, Lindus Health, London. Development of the in-house Clinical Trials software.                                         |
 | Mar 2024 - now    | Director for Bailey Medics Limited, working under the trading name [Let's Do Digital](https://letsdodigital.org/)                                           |
 | Mar 2024 - June   | Physician engineer (aka clinician-who-codes), Canvas Medical, San Francisco, USA. Worked on converting clinical protocols, using large language models, into python code to be subsequently used in the Canvas Medical EPR.                                               |
 | Mar 2023 onwards  | Locum Respiratory and Sleep Consultant, Salisbury, East Grinstead, and Bristol. Both remote and on-site clinical practice.     |

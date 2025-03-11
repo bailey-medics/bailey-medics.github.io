@@ -25,7 +25,7 @@ title: "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc"
 
 | Duration           | Position                                                                                                                         |
 |--------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| 2022 - 2023       | Co-lead for the “Let’s Talk Digital Conference”, co-hosted and sponsored by Gloucestershire University and SWAG cancer alliance. |
+| 2022 - now       | Co-lead for the “Let’s Talk Digital Conference”, co-hosted and sponsored by Gloucestershire University and SWAG cancer alliance. |
 | May 2022 – July 2023 | Council member of the Faculty of Clinical Informatics                                                                             |
 | 2021-now          | Board member of NHS PyCom                                                                                                        |
 | 2022              | Q community member                                                                                                                |

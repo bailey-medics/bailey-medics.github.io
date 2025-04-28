@@ -2,13 +2,14 @@
 title: "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc"
 ---
 
-![](/media/mark-bailey.jpg){height=200px fig-align="center" fig-alt="Profile picture of Mark Bailey"}
+<!-- ![](/media/mark-bailey.jpg){height=200px fig-align="center" fig-alt="Profile picture of Mark Bailey"} -->
 
 ### Work Experience
 
 | Duration           | Position                                                                                                                         |
 |--------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| Nov 2024 - now    | Senior Physician Engineer, Lindus Health, London. Development of in-house Clinical Trials software.                                         |
+| April 2024 - now    | Fractional Chief Technology Officer, Onion.ai, London. Technical lead for building amazing AI powered personalised patient education. |
+| Nov 2024 - Apr 2025    | Senior Physician Engineer, Lindus Health, London. Development of in-house Clinical Trials software.                                         |
 | Mar 2024 - now    | Director for Bailey Medics Limited, working under the trading name [Let's Do Digital](https://letsdodigital.org/)                                           |
 | Mar 2024 - June   | Physician engineer (aka clinician-who-codes), Canvas Medical, San Francisco, USA. Worked on converting clinical protocols, using large language models, into python code to be subsequently used in the Canvas Medical EPR.                                               |
 | Mar 2023 onwards  | Locum Respiratory, Sleep and General Medicine Consultant, Salisbury, East Grinstead, Swindon and Bristol. Both remote and on-site clinical practice.     |
@@ -26,6 +27,7 @@ title: "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc"
 | Duration           | Position                                                                                                                         |
 |--------------------|----------------------------------------------------------------------------------------------------------------------------------|
 | 2022 - now       | Co-lead for the “Let’s Talk Digital Conference”, co-hosted and sponsored by Gloucestershire University and SWAG cancer alliance. |
+| May 2022 – now | Moderator, author and commentor at Digital Health Discourse
 | May 2022 – July 2023 | Council member of the Faculty of Clinical Informatics                                                                             |
 | 2021-now          | Board member of NHS PyCom                                                                                                        |
 | 2022              | Q community member                                                                                                                |

@@ -2,7 +2,7 @@
 title: "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc"
 ---
 
-<!-- ![](/media/mark-bailey.jpg){height=200px fig-align="center" fig-alt="Profile picture of Mark Bailey"} -->
+![](/media/mark-bailey.jpg){height=200px fig-align="center" fig-alt="Profile picture of Mark Bailey"}
 
 ### Work Experience
 

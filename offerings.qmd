@@ -4,7 +4,7 @@ title: "Offerings"
 
 ## Quill Medical
 
-We are currently building [Quill Medical](https://quill-medical.com): online learning and assessment for clinicians, built by clinicians. Please visit [quill-medical.com](https://quill-medical.com) to find out more.
+We are currently building [Quill Medical](https://quill-medical.com): online learning and assessment for clinicians, built by clinicians.
 
 ## Other offerings
 

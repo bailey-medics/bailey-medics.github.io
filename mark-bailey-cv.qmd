@@ -8,7 +8,8 @@ title: "Dr Mark Allan Bailey BSc PhD MB BChir MRCP MSc"
 
 | Duration           | Position                                                                                                                         |
 |--------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| April 2025 - now    | Fractional Chief Technology Officer, Onion.ai, London. Technical lead for building amazing AI powered personalised patient education. |
+| July 2026 - now    | Fractional Chief Technology Officer, Allie Health, London. Technical lead of this innovative women's health education platform. |
+| April 2025 - July 2026    | Fractional Chief Technology Officer, Onion.ai, London. Technical lead for building  AI powered personalised patient education. |
 | Mar 2024 - now    | Director for Bailey Medics Limited, working under the trading name [Let's Do Digital](https://letsdodigital.org/)   
 | June - Octo 2025    | Clinical Informatician, Bennett Institute, University of Oxford. |
 | Nov 2024 - Apr 2025    | Senior Physician Engineer, Lindus Health, London. Development of in-house Clinical Trials software.                                         |

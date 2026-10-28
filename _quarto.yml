@@ -22,6 +22,8 @@ website:
     left: 
       - href: company-information.qmd
         text: Company information
+      - href: privacy.qmd
+        text: Privacy
     right: 
       - icon: twitter 
         href: https://twitter.com/markbaileyci

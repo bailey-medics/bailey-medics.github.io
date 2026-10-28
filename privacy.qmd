@@ -1,0 +1,15 @@
+---
+title: "Privacy"
+---
+
+## Digest engine
+
+The digest engine is a private tool run by Bailey Medics Ltd for Mark Bailey's own use. It is not offered to anyone else.
+
+With the owner's consent, it reads one Google account, <bailey.medics.digest@gmail.com>, which exists only to receive newsletters. It asks Google for read-only access (`gmail.readonly`). It cannot send, change or delete mail.
+
+Newsletter text is kept on Bailey Medics' own server to build private research digests, and is deleted after 60 days. It is not shared, sold or used to train any model.
+
+To withdraw access, the account owner removes "Digest engine" at <https://myaccount.google.com/connections>.
+
+Contact: <bailey.medics.digest@gmail.com>

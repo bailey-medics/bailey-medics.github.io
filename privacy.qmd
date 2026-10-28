@@ -6,6 +6,4 @@ Bailey Medics Ltd respects the privacy of everyone it works with.
 
 We collect and use personal information only where it is needed to provide our services. We keep it secure, and we keep it no longer than necessary. We do not sell personal information, or share it with others for their own purposes.
 
-Where one of our tools connects to a Google account, it does so only with the account owner's consent and with the least access it needs. The owner can withdraw that access at any time from their Google account settings.
-
 For any question about privacy, please [contact us](contact.qmd).
